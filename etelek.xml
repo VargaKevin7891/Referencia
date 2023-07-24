@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<etelek>
+    <pizza>
+        <id>11394</id>
+        <nev>SonGoKu pizza</nev>
+        <ar>1799</ar>
+        <hossz>32</hossz>
+        <leiras>paradicsomos alap, sonka, gomba, kukorica, mozzarella sajt</leiras>
+    </pizza>
+    <pizza>
+        <id>11531</id>
+        <nev>Baconos pizza</nev>
+        <ar>2399</ar>
+        <hossz>26</hossz>
+        <leiras>bbq alap, bacon, sonka, kockázott csirkemell, sajt, mozzarella sajt</leiras>
+    </pizza>
+    <hamburger>
+        <id>22475</id>
+        <nev>BBQ Paradise</nev>
+        <ar>2299</ar>
+        <leiras>szezámos buci, marhahús pogácsa, paradicsom, uborka, cheddar sajt, sajt, BBQ szósz, házi hamburger szósz</leiras>
+    </hamburger>
+</etelek>
